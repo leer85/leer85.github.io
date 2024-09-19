@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # leer85.github.io
 portfolio site
 =======
@@ -39,3 +40,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> c01e54c (Initial commit from Create Next App)
+=======
+npm run dev to begin.
+>>>>>>> 97752a4 (Update README.md)
