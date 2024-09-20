@@ -33,9 +33,9 @@ export default function Home() {
       
           <p>As part of an internal innovation team, I designed an <span className="bodyLink"><a href="/">onboarding feature</a></span> at Shopify. It reduced bounce rates in new users by 42%</p>
 
-          <p>I worked with JavaScript and UX flows for the Toronto Star’s daily news app, StarTouch.</p>
+          <p>I worked writing JavaScript and creating UX flows for the Toronto Star’s daily news app, StarTouch.</p>
 
-          <p>Before working in UX I was a journalist, in a variety of editorial and design roles.</p>
+          <p>Before working in product design I was a journalist, in a variety of editorial and design roles.</p>
 
           <p>I studied <span className="bodyLink"><a href="https://www.stc.ac.uk/course/btec-art-visual-and-digital-level-3-year-2/">graphic design</a></span> in the UK, <span className="bodyLink"><a href="https://www.torontomu.ca/journalism/#!accordion-1677379613084-what-you-ll-learn">journalism</a></span> in Canada, and am now studying <span className="bodyLink"><a href="https://en.itu.dk/Programmes/MSc-Programmes/Software-Design">software design</a></span> in Copenhagen. Feel free to get in touch at my <span className="bodyLink"><a href="mailto:hej@leerichardson.dk">email address.</a></span></p>
 
