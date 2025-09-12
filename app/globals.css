@@ -1,14 +1,23 @@
 @font-face {
-  font-family: 'Mon';
-  src: url('/fonts/MonumentGrotesk-Regular.otf') format('opentype');
-  font-weight: 300;
+  font-family: 'Writer';
+  src: url('/fonts/PPWriter-Book.ttf') format('opentype');
+  font-weight: inherit;
 }
 
 @font-face {
-  font-family: 'MonMed';
-  src: url('/fonts/MonumentGrotesk-Black.otf') format('opentype');
+  font-family: 'PolyM';
+  src: url('/fonts/PolySans-Median.otf') format('opentype');
   font-weight: inherit;
+  letter-spacing: -0.035em;
 }
+
+@font-face {
+  font-family: 'PolyS';
+  src: url('/fonts/PolySans-Slim.otf') format('opentype');
+  font-weight: inherit;
+  letter-spacing: -0.035em;
+}
+
 
 * {
   margin: 0;
@@ -17,16 +26,13 @@
 }
 
 body {
-  font-family: 'Mon';
-  font-weight: 300;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: #ffffff;
+  font-family: 'Writer';
+  background: #F7F7F7;
   color: #333;
 }
 
 .navigation {
-  padding: 3% 5% 0 0;
+  padding: 3% 5%;
   position: sticky;
   top: 0;
 }
@@ -39,10 +45,8 @@ body {
 }
 
 .navLink {
-  color: #000;
   text-decoration: none;
-  font-weight: 500;
-  transition: opacity 0.2s;
+  font-family: 'PolyS';
 }
 
 .navLink:hover {
