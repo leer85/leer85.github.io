@@ -1,5 +1,4 @@
 import styles from "./page.module.css";
-
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -8,9 +7,10 @@ export default function Home() {
       </div>
       
       <div className={styles.textGrid}>
-        <p>I'm a product designer in Copenhagen, currently studying <span className="bodyLink"><a href="https://en.itu.dk/Programmes/MSc-Programmes/Software-Design">software design</a></span> at ITU. I specialize in solving business challenges through innovative design, visual identity development and digital transformation strategies.</p>
+        <p>I'm a product designer in Copenhagen, currently studying <span className="bodyLink"><a href="https://en.itu.dk/Programmes/MSc-Programmes/Software-Design">software design</a></span> at ITU. My focus is on the technical side of AI, and efficient data mining and storage.</p>
+        <p>In my career I specialize in solving business challenges through innovative design, visual identity development and digital transformation strategies.</p>
 
-        <p>In my design approach, every project begins with exploratory dialogue to identify client needs, followed by research and strategic planning. I am able to handle the entire design process from concept to execution, and use measurable methodologies to deliver appropriate and lasting solutions.</p>
+        <p>My design approach means that every project begins with exploratory dialogue to identify client needs, followed by research and strategic planning. I am able to handle the entire design process from concept to execution, and use measurable methodologies to deliver appropriate and lasting solutions.</p>
 
         <p>While at Hero Gaming I was UX specialist, delivering measurable results including <span className="bodyLink"><a href="https://www.figma.com/proto/pmOcYC7bkDepWrFEfW9GeE/cv-2025?node-id=96-132&t=a62Y9FN6FSQqTJpU-1">creating a feature</a></span> that increased user engagement by 44%, a <span className="bodyLink"><a href="https://www.figma.com/proto/pmOcYC7bkDepWrFEfW9GeE/cv-2025?node-id=70-403&t=a62Y9FN6FSQqTJpU-1">signup flow optimization</a></span> that boosted conversions by 73%, and a <span className="bodyLink"><a href="https://www.figma.com/proto/pmOcYC7bkDepWrFEfW9GeE/cv-2025?node-id=98-96&t=oGMLAQElPD725VVE-1">landing page redesign</a></span> that improved NPS scores from 59 to 72.</p>
 

@@ -1,0 +1,21 @@
+/* components/navbar.module.css */
+.navigation {
+  padding: 3% 5%;
+  position: sticky;
+  top: 0;
+}
+
+.navigation ul {
+  list-style: none;
+  display: flex;
+  gap: 4rem;
+  justify-content: flex-end;
+}
+
+/* Mobile styles for the Navbar */
+@media (max-width: 768px) {
+  .navigation {
+    background: #F7F7F7;
+    border-bottom: 0.2px solid #333;
+  }
+}
