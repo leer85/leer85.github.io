@@ -6,7 +6,7 @@ const Navbar = () => {
    <nav className={styles.navigation}>
       <ul>
         <li><a className="navLink" href="mailto:hej@leerichardson.dk">Email</a></li>
-        <li><a className="navLink" href="http://www.linkedin.com/in/lee-richardson-ux-designer">LinkedIn</a></li>
+        <li><a className="navLink" href="https://www.linkedin.com/in/leerichardsondk">LinkedIn</a></li>
       </ul>
     </nav>
   );

@@ -22,7 +22,7 @@ export default function Home() {
 
         <p>Before design I worked in journalism, where I held various design and editorial positions. I studied <span className="bodyLink"><a href="https://www.stc.ac.uk/course/btec-art-visual-and-digital-level-3-year-2/">graphic design</a></span> in the UK and <span className="bodyLink"><a href="https://www.torontomu.ca/journalism/#!accordion-1677379613084-what-you-ll-learn">journalism</a></span> in Canada.</p>
 
-       <p>Feel free to get in touch via <span className="bodyLink"><a href="mailto:leerichardson647@gmail.com">email.</a></span></p>
+       <p>Feel free to get in touch via <span className="bodyLink"><a href="mailto:hej@leerichardson.dk">email.</a></span></p>
       </div>
     </div>
   );
