@@ -28,22 +28,21 @@
 
 body {
   font-family: 'Writer';
-  background: #F7F7F7;
+  background: #FAF5E0;
   color: #333;
 }
 
-/* These styles are for the Navbar component, which is a global component, so they belong here. */
 .navLink {
   text-decoration: none;
   font-family: 'PolyS';
 }
 
 .navLink:hover {
-  color: #4D4DDB;
+  color: #EC563B;
 }
 
 .bodyLink a {
-  color: #4D4DDB;
+  color: #EC563B;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
